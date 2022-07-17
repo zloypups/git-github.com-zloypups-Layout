@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACV,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "cart_produckt.scss"
+    ],
+    "names": [],
+    "file": "cart_produckt.css"
+}
